@@ -10,7 +10,7 @@ Release:	1
 License:	GPL v2+ or Ruby
 Group:		Development/Languages
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
-# Source0-md5:	-
+# Source0-md5:	50f3b868dab4ef1359d0777cdacda2e1
 URL:		http://docs.seattlerb.org/net-http-pipeline
 BuildRequires:	rpm-rubyprov
 BuildRequires:	rpmbuild(macros) >= 1.656
